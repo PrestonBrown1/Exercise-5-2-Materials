@@ -1,9 +1,9 @@
 [gd_resource type="StandardMaterial3D" load_steps=5 format=3 uid="uid://dv76cxap5uj7y"]
 
-[ext_resource type="Texture2D" uid="uid://bbei0af7fjhkn" path="res://materials/texture_cheese_albedo.png" id="1"]
-[ext_resource type="Texture2D" uid="uid://ckyituyfs02mo" path="res://materials/texture_cheese_depth.png" id="2"]
-[ext_resource type="Texture2D" uid="uid://cwpdpjj628we6" path="res://materials/texture_cheese_ao.png" id="3"]
-[ext_resource type="Texture2D" uid="uid://drcrcryt6g6al" path="res://materials/texture_cheese_normal.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://35uatssf4fqg" path="res://materials/texture_cheese_albedo.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://djivykopjbrgq" path="res://materials/texture_cheese_depth.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://bhowo5pflq1c7" path="res://materials/texture_cheese_ao.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://b541y20crto85" path="res://materials/texture_cheese_normal.png" id="4"]
 
 [resource]
 albedo_texture = ExtResource("1")

@@ -1,10 +1,10 @@
 [gd_resource type="StandardMaterial3D" load_steps=6 format=3 uid="uid://ca5id5w12cprn"]
 
-[ext_resource type="Texture2D" uid="uid://vmfa0wdc1t8n" path="res://materials/texture_rock_normal.png" id="1"]
-[ext_resource type="Texture2D" uid="uid://c3x34kbl5riq5" path="res://materials/texture_rock_depth.png" id="2"]
-[ext_resource type="Texture2D" uid="uid://cyqj8mjgx816d" path="res://materials/texture_rock_ao.png" id="3"]
-[ext_resource type="Texture2D" uid="uid://drf5vk54emlea" path="res://materials/texture_rock_metal.png" id="4"]
-[ext_resource type="Texture2D" uid="uid://chkhlqxtypsgd" path="res://materials/texture_rock_albedo.png" id="5"]
+[ext_resource type="Texture2D" uid="uid://e6tuc7jjk6k" path="res://materials/texture_rock_normal.png" id="1"]
+[ext_resource type="Texture2D" uid="uid://ti8t3ughyeuh" path="res://materials/texture_rock_depth.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://c1vkrair7vt2e" path="res://materials/texture_rock_ao.png" id="3"]
+[ext_resource type="Texture2D" uid="uid://h4s2gsdhiut8" path="res://materials/texture_rock_metal.png" id="4"]
+[ext_resource type="Texture2D" uid="uid://crehfp8cydikl" path="res://materials/texture_rock_albedo.png" id="5"]
 
 [resource]
 albedo_texture = ExtResource("5")

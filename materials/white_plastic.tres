@@ -1,4 +1,4 @@
-[gd_resource type="SpatialMaterial" format=2]
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c3okd2t50kk56"]
 
 [resource]
 metallic = 0.4
